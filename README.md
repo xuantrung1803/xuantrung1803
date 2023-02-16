@@ -14,7 +14,7 @@
 ## 📫 How to reach me:
 ## 🌐Socials
 <p align="center">
-  <a href="https://linkedin.com/in/tien-nhm" target="_blank">
+  <a href="https://linkedin.com/in/xuantrung1803" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
   </a>
   <a href="https://www.facebook.com/xuantrung1803" alt="Facebook">
